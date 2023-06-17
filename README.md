@@ -12,4 +12,4 @@ Class project.
 
 ### Link to the project  
 Task description, tables and visualization as well as conclusion and suggestions could be found in the [Google spreadsheet](https://docs.google.com/spreadsheets/d/1evRXH8Xch3up89dmjDzaX5y1MYtxziRezEplRWjL5V8/edit?usp=sharing).  
-Texts are written in Russian, tables and visualization charts legend is parthly in English.
+Texts is written in Russian, tables and visualization charts legend is parthly in English.
